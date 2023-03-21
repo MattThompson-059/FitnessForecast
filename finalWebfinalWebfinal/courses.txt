@@ -1,0 +1,526 @@
+23138|PHED 101|5|Lifetime Activities|14
+23140|SPAN 401|1|Urban Spaces as Literary Cosmovisio|1
+23243|ACCT 221|2|Accounting I|1
+23244|ACCT 222|1|Accounting II|2
+23245|ACCT 321|1|Intermediate Accounting I|2
+23246|ACCT 221|1|Accounting I|1
+23247|ACCT 367|1|Auditing|2
+23248|ACCT 450|1|Internship in Accounting|14
+23249|ACCT 362|1|Cost Accounting|1
+23250|AMST 357|1|Faulkner, Fiction and Film|2
+23251|AMST 356|1|Walt Disney's America|1
+23252|ARCH 495|1|Research Project/Archaeology|14
+23253|ARCH 450|1|Field Study in Archaeology|14
+23255|ARTH 201|1|History of Art I|1
+23256|ASTU 290|1|Intro to Asian Studies|1
+23257|BIOL 121|2|Foundations of Exp Biology|1
+23258|BIOL 121|3|Foundations of Exp Biology|1
+23259|BIOL 121|4|Foundations of Exp Biology|1
+23260|BIOL 121|5|Foundations of Exp Biology|2
+23261|BIOL 121|6|Foundations of Exp Biology|1
+23262|BIOL 121|7|Foundations of Exp Biology|2
+23263|BIOL 121|8|Foundations of Exp Biology|2
+23264|BIOL 123|1|Prin in Molecular Biology|1
+23265|BIOL 123|2|Prin in Molecular Biology|2
+23266|BIOL 121|1|Foundations of Exp Biology|2
+23268|BIOL 200|2|Genetics|2
+23269|BIOL 205|1|Evolution|2
+23270|BIOL 205|2|Evolution|2
+23272|BIOL 251|1|Human Anat-Physiology I|1
+23273|BIOL 251|2|Human Anat-Physiology I|2
+23274|BIOL 200|1|Genetics|1
+23275|BIOL 311|1|Microbiology|1
+23276|ARTH 211|1|Egyptian Art|2
+23277|ARTH 215|1|Roman Art|2
+23278|ARTH 421|1|Theory & Methods|2
+23279|ASTR 231|1|Astrophysics I|2
+23281|BIOL 252|2|Human Anat-Physiology II|2
+23282|BIOL 252|1|Human Anat-Physiology II|1
+23283|BIOL 311|2|Microbiology|2
+23284|ARTH 214|1|Bronze and Iron Age Europe|1
+23285|BIOL 151|1|Biological Diversity|1
+23286|BIOL 320|1|Reproductive & Stem Cell Biology|1
+23287|BIOL 315|1|Infectious Disease & Public Health|2
+23290|BIOL 450|1|Internship in Biology|14
+23291|BIOL 496|1|Senior Project|14
+23292|BIOL 499|1|Biology Capstone|1
+23293|BUSN 111|1|Foundations in Business|1
+23294|BUSN 111|2|Foundations in Business|2
+23295|BLST 201|1|Introduction to Black Studies|1
+23296|BUSN 226|1|Business Law|2
+23297|BUSN 336|2|Financial Management|2
+23298|BUSN 336|3|Financial Management|1
+23299|BUSN 343|1|Operations Management|2
+23300|BUSN 343|2|Operations Management|1
+23301|BUSN 380|1|Principles of Marketing|2
+23302|BUSN 380|2|Principles of Marketing|2
+23303|BUSN 450|1|Internship in Business|14
+23304|BUSN 336|1|Financial Management|1
+23305|CHEM 210|2|Intro to College Chemistry|1
+23306|CHEM 215|1|Principles of Chemistry|2
+23307|CHEM 215|2|Principles of Chemistry|1
+23308|CHEM 215|3|Principles of Chemistry|2
+23309|CHEM 220|1|Basic Inorganic Chemistry|1
+23310|CHEM 220|2|Basic Inorganic Chemistry|2
+23311|CHEM 230|1|Quantitative Chem Analysis|2
+23312|CHEM 251|1|Directed Study Chemistry|14
+23313|CHEM 251|2|Directed Study Chemistry|14
+23314|CHEM 251|3|Directed Study Chemistry|14
+23315|CHEM 251|4|Directed Study Chemistry|14
+23316|CHEM 261|1|Organic Chemistry|1
+23317|CHEM 261|2|Organic Chemistry|1
+23318|CHEM 261|3|Organic Chemistry|2
+23319|CHEM 311|1|Physical Chemistry|2
+23320|CHEM 311|2|Physical Chemistry|2
+23321|CHEM 345|1|Junior Seminar|14
+23322|CHEM 351|1|Directed Study Chemistry|14
+23323|CHEM 351|2|Directed Study Chemistry|14
+23324|CHEM 351|3|Directed Study Chemistry|14
+23325|CHEM 351|4|Directed Study Chemistry|14
+23326|CHEM 407|1|Biochemistry I|1
+23327|CHEM 407|2|Biochemistry I|1
+23328|CHEM 445|1|Senior Seminar|14
+23329|CHEM 496|1|Senior Project|14
+23330|CHEM 496|2|Senior Project|14
+23331|CHEM 496|3|Senior Project|14
+23332|CHEM 496|4|Senior Project|14
+23333|CHEM 210|1|Intro to College Chemistry|1
+23334|BUSN 313|1|Organizational Behavior|1
+23335|CHIN 111|2|Elementary Chinese|2
+23336|CHIN 211|1|Intermediate Chinese|2
+23337|CHIN 211|2|Intermediate Chinese|2
+23338|CHIN 111|1|Elementary Chinese|2
+23339|COMM 210|1|Principles of Public Comm|1
+23340|COMM 210|2|Principles of Public Comm|2
+23342|COMM 215|1|Interp&Small Group Comm|1
+23343|COMM 215|2|Interp&Small Group Comm|2
+23344|COMM 301|1|Human Comm Theory & Methods|2
+23345|COMM 302|1|Comm Research Methods|1
+23346|COMM 310|1|Debate/Forensics Participation|14
+23347|COMM 201|1|Intro to Comm Studies|1
+23349|CRIM 200|2|Introduction to Criminology|2
+23350|CRIM 322|1|Criminological Theory|1
+23351|CRIM 410|1|Juvenile Delinquency|2
+23352|CRIM 200|1|Introduction to Criminology|1
+23353|CSCI 106|2|Computer Apps in Business|2
+23355|CSCI 111|1|Intro to Computer Science|1
+23356|CSCI 111|2|Intro to Computer Science|2
+23357|CSCI 111|3|Intro to Computer Science|1
+23358|CSCI 211|1|Computer Organization|1
+23359|CSCI 212|1|Systems Programming|2
+23360|CSCI 106|1|Computer Apps in Business|1
+23361|CSCI 401|1|Capstone Experience|14
+23362|CHIN 311|1|Advanced Chinese|1
+23363|CLAS 226|1|Warfare in Antiquity|2
+23364|CLAS 215|1|Roman Art|2
+23365|CLAS 211|1|Egyptian Art|2
+23366|CLAS 450|1|Field Study in Archaeology|14
+23368|COMM 308|1|American Campaigns & Elections|2
+23370|COMM 331|1|Conflict Communication|2
+23371|CHIN 236|1|Chinese Popular Culture|1
+23372|COMM 311|1|Rhetoric Theory & Methods|2
+23373|COMM 314|1|Visual Rhetorics|2
+23374|CSCI 281|1|T:Machine Learning|2
+23375|CSCI 335|1|Web Development|1
+23376|CSCI 450|2|Internship in Computer Science|14
+23377|CSCI 450|1|Internship in Computer Science|14
+23378|CSEC 121|2|Privacy and Security|2
+23379|CSEC 121|1|Privacy and Security|2
+23380|CLAS 214|1|Bronze and Iron Age Europe|1
+23381|COMM 306|1|Presidential Rhetoric|1
+23382|COMM 321|1|Mass Communication Theory & Methods|2
+23383|COMM 365|1|New Media|1
+23384|CSEC 321|1|Cryptography|1
+23385|ECON 201|2|Principles of Econ-Micro|1
+23386|ECON 201|3|Principles of Econ-Micro|2
+23387|ECON 202|1|Principles of Econ-Macro|2
+23388|ECON 202|2|Principles of Econ-Macro|1
+23389|ECON 312|1|Econometrics|2
+23390|ECON 323|1|Intermediate Microeconomics|2
+23391|ECON 324|1|Intermediate Macroeconomics|1
+23392|ECON 450|1|Internship in Economics|14
+23393|ECON 201|1|Principles of Econ-Micro|1
+23394|ECON 340|1|Urban Economics|1
+23395|ECON 380|1|International Economics|2
+23396|EDUC 220|1|The Profession of Teaching|1
+23397|EDUC 220|2|The Profession of Teaching|1
+23399|EDUC 221|2|Fieldwork|14
+23400|EDUC 221|1|Fieldwork|14
+23401|EDUC 226|1|Read & Lang Methods Fieldwork|14
+23402|EDUC 227|1|Math Methods Elementary|2
+23403|EDUC 228|1|Science Methods Elementary|1
+23404|EDUC 233|1|Survey Exceptional Children|1
+23405|EDUC 234|1|Issues in Special Education|2
+23406|EDUC 321|1|Educational Psychology|1
+23407|EDUC 322|1|Educ Psyc Fieldwork|14
+23408|EDUC 357|1|Prin & Methods of Spec Educ|2
+23409|EDUC 225|1|Read-Language Arts Methods|1
+23410|ENGL 185|2|Critical Reading and Writing|2
+23411|ENGL 185|3|Critical Reading and Writing|1
+23412|ENGL 185|4|Critical Reading and Writing|1
+23413|ENGL 185|5|Critical Reading and Writing|2
+23414|ENGL 185|6|Critical Reading and Writing|2
+23415|ENGL 185|7|Critical Reading and Writing|2
+23416|ENGL 185|8|Critical Reading and Writing|1
+23417|ENGL 185|9|Critical Reading and Writing|2
+23420|ENGL 185|1|Critical Reading and Writing|1
+23421|ENGL 211|2|British Literary Traditions I|2
+23422|ENGL 211|1|British Literary Traditions I|2
+23423|ENGL 232|1|Introduction to Drama|2
+23424|ENGL 311|1|Shakespeare & his England|2
+23425|ENGL 271|1|Writing Women's Lives|1
+23426|ENGL 495|1|Capstone:Jane Austen|1
+23427|ENGL 400|1|Internship in English|14
+23428|ENGL 190|1|Midnight Tales|1
+23429|ENGL 252|1|Intro to American Lit II|1
+23430|ENGL 307|1|Creative Nonfiction|1
+23431|ENGL 325|1|Uses of the Bible in Literature|2
+23432|ENGL 332|1|American Novel Between the Wars|1
+23433|ENGL 353|1|Children's Literature|2
+23434|ENGL 374|1|News Writing I|2
+23436|ENGR 280|1|CAE Design|1
+23437|EPHY 250|1|Engineering:Statics|2
+23438|EPHY 300|1|Mechanics of Solids|2
+23439|EPHY 400|1|Adv. Engineering Lab|1
+23440|EVST 105|1|Environ Prob Solving I|1
+23441|EVST 101|1|Intro to Environ Science|2
+23442|EVST 225|1|Environmental Law|2
+23443|EVST 305|1|Env. Problem Solving II|1
+23444|EVST 200|1|GIS with Environ Apps|1
+23445|EVST 380|1|T:Environmental Research|14
+23446|EVST 380|2|T:Environmental Research|14
+23447|EVST 405|1|Env. Problem Solving III|1
+23448|EVST 450|2|Field Study Environmental Studies|14
+23449|EVST 451|1|Internship in Environmental Studies|14
+23450|EVST 451|2|Internship in Environmental Studies|14
+23451|EVST 452|1|Internship in Environmental Studies|14
+23452|EVST 452|2|Internship in Environmental Studies|14
+23453|EVST 450|1|Field Study Environmental Studies|14
+23454|FILM 261|2|Writing for Film|1
+23455|FILM 261|1|Writing for Film|1
+23457|FREN 211|2|Intermediate French|2
+23458|FREN 215|1|Intensive Intermed French|2
+23459|FREN 240|1|Grammar & Intro to Literature|1
+23460|FREN 111|1|Elementary French|1
+23461|GEOL 102|1|Geologic History of Earth|2
+23462|GEOL 101|1|Intro To Geology|2
+23463|GERM 211|1|Intermediate German|2
+23464|GERM 215|1|Intensive Intermediate|1
+23466|GSWS 271|1|Writing Women's Lives|1
+23467|GSWS 202|1|Sex and Culture|1
+23468|GSWS 101|1|Intro to Women's Studies|1
+23469|GREK 215|1|Intensive Intermediate Greek|1
+23470|GREK 111|1|Elementary Greek|2
+23471|FILM 210|1|Introduction to Film|2
+23474|FREN 273|1|Business French|2
+23475|FREN 481|1|T:Francophone Lit/Cinema|1
+23476|GREK 345|1|Greek Philosophical Prose|1
+23477|FLET 281|1|T:Outcasts/Others in Germ Lit & Fil|2
+23478|GERM 381|1|T:Outcasts/Others in Germ Lit & Fil|2
+23479|FREN 354|1|Fairy-Tale Beginnings|2
+23480|GERM 111|2|Elementary German|1
+23481|HIST 100|2|Introduction History I|2
+23482|HIST 100|3|Introduction History I|2
+23483|HIST 100|4|Introduction History I|1
+23484|HIST 100|5|Introduction History I|2
+23485|HIST 100|6|Introduction History I|1
+23486|HIST 100|7|Introduction History I|1
+23487|HIST 100|1|Introduction History I|1
+23488|HIST 111|1|World History to 1500|1
+23489|HIST 281|1|Islam to the 14th Century|1
+23490|HIST 450|1|Internship in History|14
+23491|HIST 401|1|Capstone Experience|14
+23492|HIST 481|1|T:Hist.Methods:Brewing/Hist|2
+23493|HONR 103|1|Heroes or Villains|2
+23494|INST 321|1|International Relations|1
+23495|JAPN 111|1|Elementary Japanese|2
+23496|JAPN 111|2|Elementary Japanese|2
+23497|JAPN 211|1|Intermediate Japanese|2
+23498|JAPN 211|2|Intermediate Japanese|2
+23500|JOUR 201|1|American Media History|1
+23501|JOUR 374|1|News Writing I|2
+23502|LATN 211|1|Intermediate Latin|2
+23503|LATN 111|1|Elementary Latin|2
+23504|HIST 212|1|U.S. Since 1865|1
+23505|HIST 226|1|Warfare in Antiquity|2
+23506|HIST 242|1|England Since 1690|1
+23507|HIST 325|1|Crisis of the Union|2
+23508|HIST 356|1|History of Witchcraft|1
+23509|HIST 338|1|Black Novel as History|2
+23510|HIST 361|1|Modern Egypt|2
+23511|HIST 111|2|World History to 1500|2
+23512|HIST 400|1|Independent Research|14
+23513|HONR 111|1|3D Printing|2
+23514|HONR 289|1|Religion & the Founding Fathers|2
+23515|INST 261|1|Intro to Theory & Method|1
+23516|HONR 300|2|Project-Based Learning|1
+23517|JAPN 330|1|Japanese Folk Tales|1
+23518|LANG 345|1|The Community Interpreter|2
+23519|LATN 341|1|Roman Drama|2
+23520|LATN 349|1|Methods of Teaching Latin|1
+23521|GSWS 356|1|History of Witchcraft|1
+23522|JAPN 295|1|Modern Japan|2
+23524|REGI 004|1|2020-21 Graduate|14
+23525|MATH 111|1|Intro to Statistics|1
+23526|MATH 111|2|Intro to Statistics|1
+23527|MATH 113|1|Intro Statistics-Computer|2
+23528|MATH 113|2|Intro Statistics-Computer|2
+23529|MATH 113|3|Intro Statistics-Computer|2
+23530|MATH 113|4|Intro Statistics-Computer|2
+23531|MATH 120|1|Introductory Logic|1
+23532|MATH 120|2|Introductory Logic|1
+23533|MATH 131|1|Calculus I|1
+23534|MATH 131|2|Calculus I|1
+23535|MATH 132|1|Calculus II|1
+23536|MATH 141|1|Calculus w/Mathematica I|2
+23537|MATH 141|2|Calculus w/Mathematica I|2
+23538|MATH 105|1|Intro to Finite Math|2
+23539|MATH 220|1|Discrete Mathematics|1
+23540|MATH 415|1|Mathematics Seminar|14
+23541|MATH 421|1|Real Analysis|2
+23542|MUSC 101|1|Understanding Music|1
+23543|MUSC 101|2|Understanding Music|2
+23545|MUSC 222|1|Music Theory 2|1
+23546|MUSC 275|1|History of Jazz|2
+23547|MATH 203|1|Multivariable Calculus|2
+23548|MUSC 301|1|Applied Voice|14
+23549|MUSC 302|1|Applied Keyboard-Piano|14
+23550|MUSC 302|2|Applied Keyboard-Piano|14
+23552|MUSC 303|1|Applied Woodwinds-Flute|14
+23553|MUSC 303|2|Applied Woodwinds-Flute|14
+23554|MUSC 303|3|Applied Woodwinds-Flute|14
+23555|MUSC 303|4|Applied Woodwinds-Flute|14
+23556|MUSC 304|1|Applied Brass-Trumpet|14
+23557|MUSC 304|2|Applied Brass-Trumpet|14
+23558|MUSC 304|3|Applied Brass-Trumpet|14
+23559|MUSC 305|1|Applied Percussion|14
+23560|MUSC 306|1|Applied Strings-Violin|14
+23561|MUSC 306|2|Applied Strings-Violin|14
+23562|MUSC 306|3|Applied Strings-Violin|14
+23563|MUSC 307|1|Applied Guitar|14
+23564|MUSC 308|1|Applied Conducting:Instrumental|14
+23565|MUSC 310|1|Concert Choir|14
+23566|MUSC 311|1|Chamber Singers|14
+23567|MUSC 313|1|Pep Band|14
+23568|MUSC 315|1|Chamber Orchestra|14
+23569|MUSC 316|1|Jazz Improvisation Lab|14
+23571|MATH 107|2|Intro to Math Modeling|2
+23572|MATH 107|1|Intro to Math Modeling|2
+23573|MATH 107|3|Intro to Math Modeling|1
+23574|MATH 371|1|Probabilty|1
+23575|MATH 353|1|Complex Analysis|2
+23576|MATH 435|1|Higher Geometry|1
+23577|MUSC 232|1|Musc History 2|2
+23578|BUSN 312|1|Organizational Communication|1
+23579|COMM 312|1|Organizational Communication|1
+23580|MUSC 308|2|Applied Conducting:Instrumental|14
+23581|MUSC 322|1|Scoring through Technology|1
+23582|NSCI 200|1|Discovering Behavioral Neuroscience|1
+23583|NSCI 320|1|Behavioral Neuroscience|2
+23584|NSCI 323|1|Hormones and Behavior|2
+23585|NSCI 330|1|Behavioral Neuroscience Tech|1
+23588|PHED 101|27|Lifetime Activities|14
+23589|PHED 101|28|Lifetime Activities|14
+23590|PHED 101|31|Lifetime Activities|14
+23591|PHED 101|33|Lifetime Activities|14
+23592|PHED 101|35|Lifetime Activities|14
+23593|PHED 101|36|Lifetime Activities|14
+23594|PHED 101|43|Lifetime Activities|14
+23595|PHED 101|46|Lifetime Activities|14
+23596|PHED 103|4|Aquatics|14
+23597|PHED 103|5|Aquatics|14
+23598|PHED 104|2|Conditioning and Wellness|14
+23600|PHED 104|9|Conditioning and Wellness|14
+23601|PHED 104|11|Conditioning and Wellness|14
+23602|PHED 104|15|Conditioning and Wellness|14
+23603|PHED 104|19|Conditioning and Wellness|14
+23604|PHED 101|11|Lifetime Activities|14
+23605|PHED 105|1|First Aid-CPR/AED|14
+23606|PHED 105|2|First Aid-CPR/AED|14
+23607|PHED 105|3|First Aid-CPR/AED|14
+23628|PHED 205|1|EMT Basic Level Cert I|14
+23629|PHED 104|33|Conditioning and Wellness|14
+23630|PHED 101|21|Lifetime Activities|14
+23631|PHED 101|32|Lifetime Activities|14
+23632|PHIL 220|1|Philosophy East/West|1
+23633|PHIL 234|1|Philosophy of Education|2
+23634|PHIL 251|2|Hist W. Philosophy-Ancient|1
+23635|PHIL 251|1|Hist W. Philosophy-Ancient|1
+23637|PHIL 450|1|Internship in Philosophy|14
+23638|PHIL 401|1|Capstone Project|14
+23639|PHYS 151|2|Introductory Physics I|1
+23640|PHYS 151|1|Introductory Physics I|1
+23641|PHYS 151|3|Introductory Physics I|2
+23642|PHYS 205|1|Modern Physics|1
+23643|PHYS 321|1|Intermediate Physics Lab|1
+23644|PHYS 340|1|Electricity & Magnetism|1
+23645|PHYS 400|2|Physics Research|14
+23646|PHYS 400|3|Physics Research|14
+23647|PHYS 400|1|Physics Research|14
+23648|PSCI 201|1|Introduction to Politics|2
+23649|PSCI 202|1|American Govt&Politics|1
+23650|PSCI 225|1|Environmental Law|2
+23651|PSCI 321|1|International Relations|1
+23652|PSCI 342|1|Introduction to Political Theory|1
+23653|PSCI 385|1|Social Entrepreneurship|1
+23654|PSYC 201|2|Research Methods|1
+23655|PSYC 200|2|General Psychology|1
+23656|PSYC 200|1|General Psychology|1
+23658|PSYC 201|3|Research Methods|2
+23659|PSYC 202|1|Success Strategies|14
+23660|PSYC 310|1|Cognitive Psychology|1
+23661|PSYC 201|1|Research Methods|2
+23662|PSYC 323|1|Hormones and Behavior|2
+23663|PSYC 320|1|Behavioral Neuroscience|2
+23665|PSYC 340|1|Social Psychology|2
+23666|PSYC 339|1|Developmental RATS|1
+23667|PSYC 433|1|Systems & Theories|1
+23668|PSCI 315|1|Public Policy|2
+23669|PSCI 308|1|American Campaigns & Elections|2
+23670|PSCI 334|1|African Politics|2
+23671|PSCI 301|1|Research Methods|1
+23672|PSYC 359|1|Clinical/Applied RATS|1
+23675|PHIL 220|2|Philosophy East/West|2
+23676|PSCI 201|2|Introduction to Politics|2
+23677|PHYS 151|4|Introductory Physics I|2
+23678|PSCI 441|1|International Law|2
+23679|PSYC 456|1|Internship in Psychology|14
+23680|PSYC 496|1|Senior Project|14
+23681|PSYC 455|1|Internship in Psychology|14
+23682|RELS 205|1|Introduction to Religion|2
+23683|RELS 205|2|Introduction to Religion|2
+23684|RELS 111|1|Biblical Hebrew|2
+23685|RELS 211|2|Hebrew Bible/Hist & Literature|1
+23686|RELS 211|1|Hebrew Bible/Hist & Literature|1
+23687|RELS 212|1|New Test Hist & Literature|2
+23688|RELS 225|1|Buddhism|1
+23689|RELS 225|2|Buddhism|2
+23690|RELS 251|1|Literature of the Holocaust|1
+23691|RELS 352|1|Religion & Literature|2
+23692|SOCI 201|1|Success Strategies|1
+23693|SOCI 200|1|Foundations of Sociology|1
+23694|SOCI 215|1|Cultural Anthropology|2
+23695|SOCI 220|1|Language and Culture|1
+23696|SOCI 221|1|Childhood and Society|1
+23697|SOCI 202|1|Sex and Culture|1
+23698|SOCI 300|1|Methods of Social Research|1
+23699|SOCI 301|1|Sociological Theory|2
+23700|SOCI 225|1|Introduction to Black Studies|1
+23701|SPAN 111|2|Elementary Spanish|1
+23702|SPAN 115|1|Intensive Elementary|1
+23703|SPAN 115|2|Intensive Elementary|2
+23704|SPAN 211|1|Intermediate Spanish|1
+23705|SPAN 211|2|Intermediate Spanish|1
+23706|SPAN 211|3|Intermediate Spanish|1
+23707|SPAN 211|4|Intermediate Spanish|1
+23708|SPAN 211|5|Intermediate Spanish|2
+23709|SPAN 211|6|Intermediate Spanish|2
+23710|SPAN 211|7|Intermediate Spanish|2
+23711|SPAN 212|1|Intermediate Spanish|1
+23712|SPAN 212|2|Intermediate Spanish|1
+23713|SPAN 111|1|Elementary Spanish|2
+23714|SPAN 215|2|Intensive Intermediate|2
+23715|SPAN 232|1|Adv. Grammar & Composition|1
+23716|SPAN 251|1|Conversation|1
+23718|SPAN 215|1|Intensive Intermediate|1
+23719|RELS 215|1|The Bible and Film|1
+23721|RELS 251|2|Literature of the Holocaust|1
+23722|SOCI 222|1|Popular Culture|2
+23723|STAR 241|2|Drawing|1
+23724|STAR 243|1|Painting I|1
+23725|STAR 244|1|Painting II|1
+23726|STAR 246|1|Printmaking|1
+23727|STAR 251|1|Human Figure I|2
+23728|THEA 111|1|Introduction to Theatre|1
+23729|THEA 112|1|Acting for Non-Majors|1
+23730|THEA 211|1|Acting I|2
+23731|THEA 215|1|Introduction to Directing|2
+23732|THEA 230|1|Stagecraft & Lighting Tech|2
+23734|THEA 422|1|Senior Thesis in Theatre|14
+23735|STAR 241|1|Drawing|2
+23736|THEA 320|1|Script Analysis|1
+23737|SPAN 115|3|Intensive Elementary|2
+23738|SPAN 212|3|Intermediate Spanish|2
+23739|SPAN 241|1|Reading in Spanish|2
+23740|SPAN 371|1|Spain's Civilization|2
+23741|SPAN 356|1|Intro to Latin-American Lit|1
+23743|SOCI 381|1|T:Anthropology of Coffee & Cacao|2
+23745|BIOL 271|6|Guided Research|14
+23746|ARTH 225|1|American Art|1
+23753|HONR 106|1|Our Green Allies|1
+23754|PHIL 405|1|Philosophy of Emotion|1
+23755|BIOL 249|1|Medical & Vet Entomology|2
+23756|BIOL 260|1|Vertebrate Field Biology|1
+23760|RELS 237|1|Christian Ethics|2
+23761|BIOL 204|1|Plant Physiology|2
+23767|HONR 241|1|Turkish German Cinema|1
+23768|HONR 127|1|Women in CompSci/Technology|1
+23781|YJSS 101|2|Yellow Jacket Success Strategy|14
+23782|YJSS 101|3|Yellow Jacket Success Strategy|14
+23783|YJSS 101|4|Yellow Jacket Success Strategy|14
+23784|YJSS 101|5|Yellow Jacket Success Strategy|14
+23785|YJSS 101|6|Yellow Jacket Success Strategy|14
+23786|YJSS 101|7|Yellow Jacket Success Strategy|14
+23787|YJSS 101|8|Yellow Jacket Success Strategy|14
+23788|YJSS 101|9|Yellow Jacket Success Strategy|14
+23789|YJSS 101|10|Yellow Jacket Success Strategy|14
+23790|YJSS 101|11|Yellow Jacket Success Strategy|14
+23791|YJSS 101|12|Yellow Jacket Success Strategy|14
+23792|YJSS 101|13|Yellow Jacket Success Strategy|14
+23793|YJSS 101|14|Yellow Jacket Success Strategy|14
+23794|YJSS 101|15|Yellow Jacket Success Strategy|14
+23795|YJSS 101|16|Yellow Jacket Success Strategy|14
+23796|YJSS 101|17|Yellow Jacket Success Strategy|14
+23797|YJSS 101|18|Yellow Jacket Success Strategy|14
+23798|YJSS 101|19|Yellow Jacket Success Strategy|14
+23799|YJSS 101|20|Yellow Jacket Success Strategy|14
+23800|YJSS 101|21|Yellow Jacket Success Strategy|14
+23801|YJSS 101|22|Yellow Jacket Success Strategy|14
+23802|YJSS 101|23|Yellow Jacket Success Strategy|14
+23803|YJSS 101|24|Yellow Jacket Success Strategy|14
+23804|YJSS 101|1|Yellow Jacket Success Strategy|14
+23805|FREN 400|1|Cultural Portfolio|14
+23809|HIST 260|1|East Asia to 1650|2
+23810|PSYC 353|1|Child/Adolescent Psychopathology|2
+23811|PSYC 130|1|Lifespan Development|1
+23812|PSYC 381|1|T:Psychology of Relationships|2
+23813|EDUC 229|1|Elementary Social Studies Methods|2
+23814|BIOL 311|3|Microbiology|2
+23815|CRIM 460|1|Criminological Practice|14
+23819|PSCI 401|1|Senior Seminar|14
+23820|BIOL 320|2|Reproductive & Stem Cell Biology|2
+23823|BIOL 127|1|Cell Biology for the Citizen|2
+23824|CSCI 111|4|Intro to Computer Science|2
+23825|BIOL 272|8|Guided Research|14
+23827|MUSC 306|4|Applied Strings-Violin|14
+23828|MUSC 303|5|Applied Woodwinds-Flute|14
+23829|MUSC 304|4|Applied Brass-Trumpet|14
+23830|MUSC 305|2|Applied Percussion|14
+23832|ECON 481|1|T:Appl Econometrics in Econ Develop|14
+23864|CHEM 408|1|Biochemistry II|14
+23865|CHEM 490|1|Learning from Chem Literature|14
+23869|CHEM 401|1|Adv Experimental Chem|14
+23874|BIOL 493|6|Research in Biology|14
+23875|FLET 227|1|German Cinema|2
+23876|PHIL 212|1|Ethics|1
+23877|BIOL 175|1|Experimental Field and Lab Ecology|1
+23878|CSEC 121|3|Privacy and Security|1
+23879|HONR 117|1|The Art of Facilitation|2
+23880|STAR 241|3|Drawing|2
+23882|MATH 113|5|Intro Statistics-Computer|1
+23883|MATH 132|2|Calculus II|2
+23884|MATH 120|3|Introductory Logic|2
+23885|SOCI 217|1|Social Problems|2
+23886|MUSC 101|3|Understanding Music|2
+23887|HIST 100|9|Introduction History I|2
+23888|HIST 100|8|Introduction History I|1
+23889|YJSS 101|25|Yellow Jacket Success Strategy|14
+23890|YJSS 101|26|Yellow Jacket Success Strategy|14
+23891|YJSS 101|27|Yellow Jacket Success Strategy|14
+23892|FLET 254|1|Fairy-Tale Beginnings|2
+23893|THEA 341|1|History of Theatre to 1800|1
+23895|PSYC 145|1|Health Psychology|2
+23897|FILM 243|1|History of American Film|1
+23899|CHEM 125|2|Chemistry & Crime|2
+23900|CHEM 125|1|Chemistry & Crime|1
+23901|COMM 495|1|Communication Discipline|1

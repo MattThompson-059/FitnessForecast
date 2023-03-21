@@ -1,0 +1,277 @@
+/* add fonts */
+@font-face {
+	font-family: header;
+	src: url('headFont.otf');
+}
+@font-face {
+	font-family: main;
+	src: url('robot.ttf');
+}
+@font-face {
+	font-family: buttonFont;
+	src: url('buttonFont.otf');
+}
+@font-face {
+	font-family: buttonFont3D;
+	src: url('buttonFont3D.otf');
+}
+
+/* get rid of gap between cell and add margin */
+table {
+	border-collapse: collapse;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: main;
+}
+
+/* add border and padding to cells and color */
+.tableFormat td, th {
+    border: 1px solid black;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+}
+
+/* get rid of background color and border of welcome banner */
+td.titleRow {
+	background-color: #242424;
+	border-color: #242424;
+	color: white;
+	text-align:  center;
+	padding-top: 12px;
+}
+
+/* get rid of background color and border of welcome info */
+td.pageInfo {
+	background-color: #242424;
+	border-color: #242424;
+	color: white;
+	text-align: justify;
+	text-align-last: center;
+	padding-bottom: 20px;
+}
+
+/* make gap smaller on top of table */
+.tableFormat {
+	margin-top: 40px;
+}
+
+/* change header row text size and color */
+th {
+	font-size: 16pt;
+	background-color: black;
+	color: white;
+	border-color: white;
+}
+
+/* give table consistent width */
+th.colorscolorscolors {
+	width: 600px;
+}
+
+/* center search bar on form page and remove borders and background */
+td.submit {
+	text-align:  center;
+	background-color: transparent;
+	border: 0px;
+	padding-top: 12px;
+	padding-bottom: 20px;
+}
+
+/* center buttons on home page and remove borders and background */
+td.homeButton {
+	text-align:  center;
+	padding-bottom: 0px;
+	padding-top: 12px;
+	background-color: transparent;
+	border: 0px;
+	width: 140px;
+}
+
+/* remove border from final row so 'Search Again' button is alone and nav buttons */
+td.formNavigationButtons {
+	border: 0px;
+	text-align:  center;
+	padding-top: 20px;
+	background-color: transparent;
+}
+
+/* left align prev button and give same settings as formNavigationButtons */
+td.prevButton {
+	border: 0px;
+	text-align: left;
+	padding-top: 20px;
+	background-color: transparent;
+}
+
+/* right align next button and give same settings as formNavigationButtons */
+td.nextButton {
+	border: 0px;
+	text-align: right;
+	padding-top: 20px;
+	background-color: transparent;
+}
+.requestNumCol {
+	text-align: right;
+}
+
+/* background color */
+body {
+	background-image: url("patternBlack.png");
+	background-attachment: fixed;
+}
+
+/* left col of table */
+td.leftCol {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	border-color: white;
+}
+
+/* change buttons style */
+.buttonDesign {
+	background-color: black;
+	font-size: 15pt;
+	color: white;
+	font-family: main;
+}
+
+/* home button on header */
+.buttonHeaderHome {
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 35pt;
+	color: white;
+	font-family: buttonFont;
+	margin-top: 25px;
+	margin-left: 290px;
+	margin-right: 10px;
+}
+.buttonHeaderHome:hover {
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+/* login button on header */
+.buttonHeaderLogin {
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 35pt;
+	color: white;
+	font-family: buttonFont;
+	margin-top: 25px;
+	margin-right: 10px;
+}
+.buttonHeaderLogin:hover {
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+/* logout button on header */
+.buttonHeaderLogout {
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 35pt;
+	color: white;
+	font-family: buttonFont;
+	margin-top: 25px;
+}
+.buttonHeaderLogout:hover {
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+/* change header settings (td) */
+.appheader td {
+	font-size: 16pt;
+	background-color: #242424;
+	border: 1px solid white;
+}
+
+/* create gap on page */
+.gap {
+	background-color: none;
+	height: 25px;
+}
+
+/* body of site style */
+.appbody {
+	background-color: #242424;
+	border-top: 1px solid white;
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+}
+
+/* change font size for footer, which currently hold the info of last edit date */
+.appfooter td {
+	font-size: 10pt;
+	color: white;
+	background-color: #242424;
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white;
+	padding: 20px;
+}
+
+/* header on each page */
+.header {
+	color: white;
+	font-family: header;
+	font-size: 52pt;
+	width: 900px;
+	text-align: center;
+}
+
+/* styling image on header */
+img.logo {
+	width: 150px;
+	height: 85px;
+	float: left;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+}
+
+/*  add white to top of upper right box of form for a better appearance */
+td.colorSelectData {
+	border-top-color: white;
+}
+
+/* add white to the bottom of the bottom right box of the form for a better appearance */
+td.colorsPerPageData {
+	border-bottom-color: white;
+}
+
+/* change the color of the last block of a color row to the appropriate color */
+td.colorBlockBackground{
+	height: 40px;
+	background-color: var(--main-color);
+	border-right-color: white;
+	border-left-color: white;
+}
+
+/* style of profile pictures on reviews page */
+img.profilePic {
+	border: 1px solid white;
+	border-radius: 20px;
+	width: 110px;
+	height: 110px;
+	object-fit: cover;
+}
+
+/* confirmation when admin makes changes */
+td.adminUpdate {
+	text-align:  center;
+	background-color: transparent;
+	border: 0px;
+	padding-top: 12px;
+	padding-bottom: 20px;
+	color: white;
+}
