@@ -1,0 +1,1 @@
+user_table = "create table User (UserID int, Username char(45), Password VARCHAR(10),
