@@ -53,18 +53,6 @@ your can use python sqlite_python.py to set your tables back to default version 
 
 # remove all database if it exists and create new database using csv files
 def initiate_database_table(database):
-	#sqlDropUser = "drop table User;"
-	##sqlDropRoutine = "drop table Routine;" # Don't drop old goal training programs
-	#sqlDropGoal = "drop table Goal;" 
-	#sqlDropExercises = "drop table Exercises:"
-	
-	"""
-	user_table = "create table User (Username varchar(20), primary key (Username), Password VARCHAR(15), height float, weight float, experience varchar(10), age int (2));"
-	routine_table = "create table Routine(Username varchar(20), days int(5), sets int, reps int, foreign key (Username) references User(Username));"
-	goal_table = "create table Goal (Username varchar(20), OneRepMax int(3), ReachDate date, foreign key (Username) references User(Username));"
-	exercises_table = "create table Exercises (Username varchar(20), CurrentMax int not null auto_increment, biceps varchar, triceps varchar, abs varchar, chest varchar, back varchar, legs varchar, primary key(CurrentMax), foreign key (Username) references User(Username));" 
-	"""
-	
 	sql_drop_colors = "drop table colors;"
 	sql_drop_users = "drop table users;"
 	sql_create_color_table = """CREATE TABLE IF NOT EXISTS colors (hex varchar(255) PRIMARY KEY NOT NULL, name varchar(255) NOT NULL, basic_color varchar(255) NOT NULL, free varchar(255) NOT NULL, red varchar(255) NOT NULL, green varchar(255) NOT NULL, blue varchar(255) NOT NULL);"""
