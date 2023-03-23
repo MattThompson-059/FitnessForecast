@@ -1,12 +1,12 @@
 <?php
 
-define("ColorApp", 1); // obsolete
+define("ColorApp", 1);
 include "views.php"; 
 include "format.php";
 
 // start the session and see if the user is logged in
 session_start();
-if(isset($_SESSION["username"])){ /// no email for login, use username /// NEW
+if(isset($_SESSION["email"])){ // no email for login, use username // NEW
 	$loginStatus = true;
 }
 else{
@@ -32,20 +32,12 @@ if(isset($_POST['submit'])) {
 	// Go to form page (from "Search Again" button or "Color Pick" button)
 	elseif($submit == 'Color Pick' or $submit == 'Search Again'){
 		if(isset($_SESSION["privilege"])){
-			
-			/// There are only users, no admins
-			
-			$fp = buildFormPage("status for form page: user");
-			
-			/*
 			if ( $_SESSION["privilege"] == "admin"){
 				$fp = buildFormPage("admin");
 			}
 			else{
 				$fp = buildFormPage("status for form page: user");
 			}
-			
-			*/
 		}
 		else{
 			$fp = buildFormPage("status for form page: user");
@@ -67,7 +59,7 @@ if(isset($_POST['submit'])) {
 	
 	// Go to login page (from "Login" button)
 	elseif($submit == 'Login') {
-		if (isset($_SESSION["username"])){
+		if (isset($_SESSION["email"])){
 			$confirm = "login";
 			$cp = buildConfirmationPage($confirm);
 			buildPage($cp);
@@ -82,8 +74,8 @@ if(isset($_POST['submit'])) {
 	elseif($submit == 'Logout') {
 		
 		// SESSION LOG OUT HERE!
-		if (isset($_SESSION["username"])){
-			unset($_SESSION["username"]);
+		if (isset($_SESSION["email"])){
+			unset($_SESSION["email"]);
 			unset($_SESSION["privilege"]);
 			session_destroy();
 			
@@ -106,21 +98,21 @@ if(isset($_POST['submit'])) {
 	// Login page submit with username and password typed in
 	elseif($submit == 'loginWithAccount'){
 		
-		$username = "";
+		$email = "";
 		$password = "";
-		if (isset($_POST['username'])){
-			$username = $_POST['username'];
+		if (isset($_POST['email'])){
+			$email = $_POST['email'];
 		}
 		if (isset($_POST['password'])){
 			$password = $_POST['password'];
 		}
 
 		// login status
-		$status = check_if_login_is_correct($username, $password);	
+		$status = check_if_login_is_correct($email, $password);	
 
 		// check status and build page
 		if ($status[0] == "Email Empty"){
-			$loginp = buildLoginPageWrong("Please enter an username");
+			$loginp = buildLoginPageWrong("Please enter an email");
 			buildPage($loginp);
 		}
 		elseif ($status[0] == "Empty Password"){
@@ -136,7 +128,7 @@ if(isset($_POST['submit'])) {
 			buildPage($loginp);
 		}
 		else{
-			$_SESSION["username"] = $username;
+			$_SESSION["email"] = $email;
 			$_SESSION["privilege"] = $status[0];
 			
 			// change login status
@@ -149,8 +141,6 @@ if(isset($_POST['submit'])) {
 		}
 	}
 	
-	
-	/* /// NO ADMIN ACCOUNTS
 	// admin use update name
 	elseif($submit == 'Update Name'){
 		$unp = buildUpdateNamePage("");
@@ -214,7 +204,7 @@ if(isset($_POST['submit'])) {
 		$acp = buildAddColorPage($status[0]);
 		buildPage($acp);
 	}
-	*/
+	
 	// Either next, prev, or top was clicked in filtered page
 	else{
 		get_data();
