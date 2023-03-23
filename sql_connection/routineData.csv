@@ -1,0 +1,97 @@
+Exercise,BodyPart,Experience,Projectible,RepTime
+Banded Bench Press,Chest,Expert,Yes,2.047
+Cable Crossover Fly,Chest,Moderate,No,3.473
+Cable Fly,Chest,Beginner,No,3.23
+Decline Bench Press,Chest,Moderate,No,2.99
+Dumbbell Chest Fly,Chest,Beginner,No,2.683
+Flat Barbell Bench Press,Chest,Beginner,Yes,2.21
+Flat Dumbbell Bench Press,Chest,Beginner,Yes,1.76
+Footless Flat Bench Press,Chest,Expert,Yes,2.347
+Incline Barbell Bench Press,Chest,Moderate,Yes,2.447
+Incline Dumbbell Bench Press,Chest,Beginner,Yes,1.95
+Machine Chest Press,Chest,Beginner ,Yes,1.813
+Machine Fly,Chest,Beginner ,No,2.977
+Push-Up Claps,Chest,Expert,No,1.233
+Push-Ups,Chest,Beginner,No,1.123
+Single Arm Dumbbell Bench Press,Chest,Moderate,No,1.943
+Standing One-Arm Landmine Press ,Chest,Moderate,No,2.253
+Assisted Machine Pull-Ups,Back,Beginner,No,1.2
+Barbell Bent-Over Row,Back,Moderate,No,0.883
+Barbell Deadlift,Back,Beginner,Yes,1.383
+Barbell Romainian Deadlift,Back,Beginner,Yes,1.317
+Dumbbell Single Arm Row,Back,Moderate,No,0.933
+Dumbbell Deadlift,Back,Beginner,No,1.233
+Farmer's Walk,Back,Beginner,No,8.4
+Lat Pulldowns,Back,Beginner,No,1.217
+Pull-Ups,Back,Beginner,No,1.067
+Renegade Row,Back,Expert,No,3.15
+Seated Cable Row,Back,Beginner,Yes,1.117
+T-Bar Row,Back,Beginner,Yes,1.183
+Weighted Pull-Ups,Back,Moderate,No,1.083
+Barbell Lateral Raise,Shoulder,Beginner,No,1.356
+Barbell Shrugs,Shoulder,Moderate,Yes,0.767
+Dumbbell Bent-over Reverse Fly ,Shoulder,Expert,No,1.006
+Dumbbell Lateral Raise,Shoulder,Beginner,No,0.85
+Dumbbell Shrugs,Shoulder,Moderate,No,0.894
+Kettleball One-Arm Press,Shoulder,Beginner,No,1.006
+Kettleball Raises,Shoulder,Moderate,No,1.172
+Seated Arnold Presses,Shoulder,Moderate,No,0.961
+Seated Barbell Shoulder Press,Shoulder,Beginner,No,0.978
+Seated Dumbbell Shoulder Press,Shoulder,Beginner,Yes,0.896
+Seated One-Arm Dumbbell Shoulder Press,Shoulder,Moderate,No,1.746
+Standing Arnold Presses,Shoulder,Moderate,No,1.054
+Standing Barbell Shoulder Press,Shoulder,Beginner,No,0.989
+Standing Dumbbell Shoulder Press,Shoulder,Beginner,Yes,0.949
+Standing One-Arm Dumbbell Shoulder Press,Shoulder,Moderate,No,1.811
+Back Squat,Legs,Beginner,Yes,2.222
+Barbell Hip Thrusts,Legs,Moderate,No,1.095
+Bulgarian Split Squat,Legs,Moderate,No,2.393
+Dumbbell Bulgarian Split Squat,Legs,Expert,No,2.511
+Front Squat,Legs,Beginner,Yes,1.756
+Goblet Squat,Legs,Beginner,Yes,1.439
+Hack Squat,Legs,Beginner,No,1.803
+Leg Curl,Legs,Moderate,No,2.052
+Lying Leg Curl,Legs,Moderate,No,0.891
+Machine Hip Thrusts,Legs,Moderate,No,0.979
+Machine Leg Extensions,Legs,Beginner,No,1.151
+Machine Leg Press,Legs,Beginner,Yes,1.326
+Reverse Lunges,Legs,Beginner,No,2.258
+Seated Calf Raise,Legs,Beginner,Yes,1.304
+Seated Leg Curl,Legs,Beginner,No,1.227
+Single Leg Deadlift,Legs,Moderate,No,1.114
+Standing Calf Raise,Legs,Moderate,Yes,1.521
+Step-Ups,Legs,Beginner,No,3.54
+Walking Lunges,Legs,Beginner,No,2.489
+Weighted Reverse Lunges,Legs,Beginner,No,1.382
+Weighted Walking Lunges,Legs,Beginner,No,1.587
+Barbell Skullcrushers,Triceps,Beginner,No,1.367
+Dumbbell Skullcrushers,Triceps,Moderate,No,1.413
+Close-Grip Bench Press,Triceps,Moderate,Yes,1.158
+Triceps Dip,Triceps,Beginner ,No,1.613
+Weighted Triceps Dip,Triceps,Moderate,No,1.577
+Triceps Machine Dip,Triceps,Beginner,No,1.176
+Seated Dumbbell Overhead Triceps Extension,Triceps,Beginner,No,1.319
+Standing Dumbbell Overhead Triceps Extension,Triceps,Moderate,No,1.355
+Cable Push-Downs,Triceps,Beginner,No,1.091
+Dumbbell Isolated Triceps Extension,Triceps,Beginner,No,1.187
+Dumbbell Floor Press,Triceps,Beginner,No,0.654
+Standing Dumbbell Curl,Biceps,Beginner,Yes,0.943
+Hammer Curl,Biceps,Beginner,Yes,1.172
+Incline Dumbbell Curl,Biceps,Moderate,No,1.095
+EZ Bar Curl,Biceps,Beginner ,No,1.074
+Concentration Dumbbell Curl,Biceps,Beginner,No,7.137
+Twisting Dumbbell Curl,Biceps,Moderate,No,1.421
+Barbell Curl,Biceps,Beginner,Yes,1.206
+Cable Rope Hammer Curl,Biceps,Beginner,No,1.047
+Mountain Climbers,Abs,Moderate,No,0.843
+Planks,Abs,Beginner,No,0
+Russian Twists,Abs,Expert,No,0.789
+Side Plank,Abs,Beginner,No,0
+Superman,Abs,Moderate,No,1.514
+Ab Crunches,Abs,Beginner,No,0.96
+Heel Taps,Abs,Beginner,No,0.928
+Machine Ab Crunches,Abs,Beginner,No,1.176
+Machine Torso Track,Abs,Moderate,No,1.186
+Seated Rotation,Abs,Beginner,No,0.871
+Plate Seated Rotation,Abs,Moderate,No,1.062
+Captain's Chair,Abs,Beginner,No,1.144
