@@ -1,0 +1,25 @@
+Exercise,Day,Experience,RepTime,SetTime(avg.),Reps,Sets,MaxWeightSet,CurrentPR,CurrPRDate,GoalPR,ProjPR,Gender,Weight(lbs),Height(in),Age
+Banded Bench Press,1,Expert,2.047,16.376,8,3,105,125,3/12/23,140,131.25,Male,197.900,69.100,20
+Flat Barbell Bench Press,1,Beginner,2.21,17.68,8,3,185,200,3/12/23,300,231.25,Male,197.900,69.100,20
+Flat Dumbbell Bench Press,1,Beginner,1.76,14.08,8,3,55,65,3/12/23,70,68.75,Male,197.900,69.100,20
+Footless Flat Bench Press,1,Expert,2.347,18.776,8,3,135,165,3/12/23,175,168.75,Male,197.900,69.100,20
+Incline Barbell Bench Press,1,Moderate,2.447,19.576,8,3,155,180,3/12/23,190,193.75,Male,197.900,69.100,20
+Incline Dumbbell Bench Press,1,Beginner,1.95,15.6,8,3,50,60,3/12/23,65,62.5,Male,197.900,69.100,20
+Machine Chest Press,1,Beginner,1.813,14.504,8,3,155,180,3/12/23,200,193.75,Male,197.900,69.100,20
+Barbell Deadlift,2,Beginner,1.383,11.064,8,3,170,185,3/14/23,250,212.5,Male,197.900,69.100,20
+Barbell Romainian Deadlift,2,Beginner,1.317,10.536,8,3,160,175,3/14/23,190,200,Male,197.900,69.100,20
+Seated Cable Row,2,Beginner,1.117,8.936,8,3,85,100,3/14/23,110,106.25,Male,197.900,69.100,20
+T-Bar Row,2,Beginner,1.183,9.464,8,3,90,105,3/14/23,115,112.5,Male,197.900,69.100,20
+Close-Grip Bench Press,2,Moderate,1.158,9.264,8,3,145,155,3/14/23,200,181.25,Male,197.900,69.100,20
+Standing Dumbbell Curl,3,Beginner,0.943,7.544,8,3,25,30,3/16/23,40,31.25,Male,197.900,69.100,20
+Hammer Curl,3,Beginner,1.172,9.376,8,3,15,25,3/16/23,35,18.75,Male,197.900,69.100,20
+Barbell Curl,3,Beginner,1.206,9.648,8,3,20,25,3/16/23,40,25,Male,197.900,69.100,20
+Barbell Shrugs,3,Moderate,0.767,6.136,8,3,45,55,3/16/23,70,56.25,Male,197.900,69.100,20
+Seated Dumbbell Shoulder Press,3,Beginner,0.896,7.168,8,3,25,40,3/16/23,50,31.25,Male,197.900,69.100,20
+Standing Dumbbell Shoulder Press,3,Beginner,0.949,7.592,8,3,15,25,3/16/23,30,18.75,Male,197.900,69.100,20
+Back Squat,4,Beginner,2.222,17.776,8,3,185,200,3/18/23,225,231.25,Male,197.900,69.100,20
+Front Squat,4,Beginner,1.756,14.048,8,3,135,155,3/18/23,175,168.75,Male,197.900,69.100,20
+Goblet Squat,4,Beginner,1.439,11.512,8,3,55,80,3/18/23,70,68.75,Male,197.900,69.100,20
+Machine Leg Press,4,Beginner,1.326,10.608,8,3,250,280,3/18/23,300,312.5,Male,197.900,69.100,20
+Seated Calf Raise,4,Beginner,1.304,10.432,8,3,165,185,3/18/23,220,206.25,Male,197.900,69.100,20
+Standing Calf Raise,4,Moderate,1.521,12.168,8,3,145,170,3/18/23,200,181.25,Male,197.900,69.100,20
