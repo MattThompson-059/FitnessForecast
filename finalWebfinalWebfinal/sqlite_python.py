@@ -1,6 +1,9 @@
 import sqlite3
 from sqlite3 import Error
+import secrets
+import string
 import csv
+import hashlib
 
 
 '''
@@ -51,29 +54,46 @@ your can use python sqlite_python.py to set your tables back to default version 
 
 '''
 
+SALT_LIST = []
+
 # remove all database if it exists and create new database using csv files
 def initiate_database_table(database):
+	# Drop old tables
 	#sqlDropUser = "drop table User;"
 	##sqlDropRoutine = "drop table Routine;" # Don't drop old goal training programs
 	#sqlDropGoal = "drop table Goal;" 
 	#sqlDropExercises = "drop table Exercises:"
 	
-	"""
-	user_table = "create table User (Username varchar(20), primary key (Username), Password VARCHAR(15), height float, weight float, experience varchar(10), age int (2));"
-	routine_table = "create table Routine(Username varchar(20), days int(5), sets int, reps int, foreign key (Username) references User(Username));"
-	goal_table = "create table Goal (Username varchar(20), OneRepMax int(3), ReachDate date, foreign key (Username) references User(Username));"
-	exercises_table = "create table Exercises (Username varchar(20), CurrentMax int not null auto_increment, biceps varchar, triceps varchar, abs varchar, chest varchar, back varchar, legs varchar, primary key(CurrentMax), foreign key (Username) references User(Username));" 
+	""" 
+	# Create tables
+	sqlCreateUserTable = "create table User (Salt varchar(32), primary key (Salt), Username varchar(20), Password VARCHAR(64), height float, weight float, experience varchar(10), age int (2));"
+	sqlCreateRoutineTable = "create table Routine(Salt varchar(32), days int(5), sets int, reps int, foreign key (Salt) references User(Salt));"
+	sqlCreateGoalTable = "create table Goal (Salt varchar(32), OneRepMax int(3), ReachDate date, foreign key (Salt) references User(Salt));"
+	sqlCreateExerciseTable = "create table Exercises (Salt varchar(32), CurrentMax int not null auto_increment, biceps varchar, triceps varchar, abs varchar, chest varchar, back varchar, legs varchar, primary key(CurrentMax), foreign key (Salt) references User(Salt));" 
 	"""
 	
 	sql_drop_colors = "drop table colors;"
 	sql_drop_users = "drop table users;"
 	sql_create_color_table = """CREATE TABLE IF NOT EXISTS colors (hex varchar(255) PRIMARY KEY NOT NULL, name varchar(255) NOT NULL, basic_color varchar(255) NOT NULL, free varchar(255) NOT NULL, red varchar(255) NOT NULL, green varchar(255) NOT NULL, blue varchar(255) NOT NULL);"""
 	sql_create_user_table = "create table if not exists users(id int primary key not null, email varchar(255) not null, password varchar(255) not null, privilege varchar(255) not null);"
+	
 	# create a database connection
 	conn = create_connection(database)
 	# create tables
 	if conn is not None:
 		# create projects table
+		
+		"""
+		run_sql(conn, sqlDropUser)
+		run_sql(conn, sqlDropGoal)
+		run_sql(conn, sqlDropExercises)
+		
+		run_sql(conn, sqlCreateUserTable)
+		run_sql(conn, sqlCreateRoutineTable)
+		run_sql(conn, sqlCreateGoalTable)
+		run_sql(conn, sqlCreateExerciseTable)
+		"""
+		
 		run_sql(conn, sql_drop_colors)
 		run_sql(conn, sql_drop_users)
 		run_sql(conn, sql_create_color_table)
@@ -105,6 +125,10 @@ def create_connection(db_file):
 
     return conn
 
+
+
+
+"""
 # input all of the colors to the color table inside of the file_name database
 def input_all_color_to_table(file_name):
 	conn = sqlite3.connect('database/database.db')
@@ -138,6 +162,54 @@ def input_all_color_to_table(file_name):
 		line = read_file.readline()
 		count += 1
 
+"""
+
+
+
+
+
+# Adds a given user to the database and generates their salt/primary key
+
+def insertUser(conn, username, password, height, weight, experience, age):
+	
+	 # characters available for salt use
+	alphabet = string.ascii_letters + string.digits
+	
+	uniqueFound = False
+	
+	 # Creates a unique salt for the new user
+	while not uniqueFound:
+		salt = ''.join(secrets.choice(alphabet) for i in range(32)) # Code from the library for secrets
+		if salt in SALT_LIST:
+			pass
+		else:
+			SALT_LIST.append(salt)
+			uniqueFound = True
+			
+	
+	salt = ''.join(secrets.choice(alphabet) for i in range(32))
+	
+	 # Number of iterations for key derivation
+	numIterations = 500000
+	
+	# HASHING
+	
+	# Convert strings to bytes
+	passwordBytes = bytes(password, 'utf-8')
+	saltBytes = bytes(salt, 'utf-8')
+	
+	longHashedPassword = hashlib.pbkdf2_hmac('sha512', hashedPasswordBytes, saltBytes , numIterations)
+	
+	
+	
+	
+	params = (salt, username, password, height, weight, experience, age)
+	
+	cur = conn.cursor()
+	cur.execute("INSERT INTO User VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s')" % params)
+	conn.commit()
+
+"""
 # insert a color to the color table
 def insert_color(conn, hex_value, color_name, basic_color_name, free, red, green, blue):
 	print(color_name)
@@ -148,6 +220,9 @@ def insert_color(conn, hex_value, color_name, basic_color_name, free, red, green
 	print("color inserted")
 	return cur.lastrowid
 	
+"""
+
+"""
 # get basic color using RGB value
 def get_basic_color(red, green, blue):
 	
@@ -190,6 +265,10 @@ def get_basic_color(red, green, blue):
 	
 	return color
 	
+	
+"""
+
+"""
 # add users to users table	
 def input_user(conn, user_id, email, password, privilege):
 	params = (user_id, email, password, privilege)
@@ -216,6 +295,8 @@ def input_all_user_to_table(filename):
 		user_id += 1
 		line = read_file.readline()
 	
+"""
+
 
 database = "database/database.db"
 initiate_database_table(database)
