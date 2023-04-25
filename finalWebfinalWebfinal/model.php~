@@ -72,15 +72,6 @@ function update_color_name($hex, $name){
 	return $status;
 }
 
-
-/// Add a user
-
-function addUser($username, $password)
-{
-	
-	
-}
-
 // admin add a color
 function add_color($hex, $color_name, $basic_color, $free, $red, $green, $blue){
 	// confirm valid input
@@ -236,26 +227,9 @@ function change_basic_color($hex, $basic_color){
 
 /*
 =========================================================================================
-GET FUNCTIONS FOR COLORS /// USERS
+GET FUNCTIONS FOR COLORS
 =========================================================================================
 */
-
-
-/// Get all users
-function getAllUsernamesFromTable()
-{
-	$db = new SQLite3('database/database.db');
-	$data = array();
-	$results = $db->query('SELECT * FROM User');
-	for ($row = $results->fetchArray())
-	{
-		$username = trim($row[1], '"');
-		$data[] = $username;
-		
-	}
-	return $data;
-}
-
 
 // get every single one of the 800 colors and put the information in an array
 function get_all_colors_from_table(){
