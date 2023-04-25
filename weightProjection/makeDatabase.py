@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 
 # Read the CSV file into a DataFrame
-df = pd.read_csv('weightProjectionExampleDataset.csv')
+df = pd.read_csv('../sql_connection/finalizedDataset.csv')
 
 # Connect to the database
 conn = sqlite3.connect('ExercisePortfolio.db')
@@ -17,6 +17,7 @@ df.to_sql('exercises', conn, if_exists='replace', index=False)
 
 c.execute('''
 SELECT * FROM exercises
+WHERE Projectible is 'Yes'
 ''')
 
 for row in c.fetchall():
