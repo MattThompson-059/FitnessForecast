@@ -1,0 +1,38 @@
+<?php if (!defined('ColorApp')) exit();
+
+// creates each page 
+function buildPage($contents) 
+{
+  $page = array();
+  $page[] = "<html>\n";
+  $page[] = "	<head>\n";
+  $page[] = implode(docHeader());
+  $page[] = "	</head>\n";
+  $page[] = "<body>\n";
+  
+   // build the page header.
+  $page[] = "<table class='app'>\n";
+  $page[] = "<tr class='appheader'><td>\n";
+  $page[] = implode(pageHeader());
+  $page[] = "</td></tr>\n";
+  
+   // add page gap
+  $page[] = "<tr class='gap'><td>\n";
+  $page[] = implode(pageGap());
+  $page[] = "</td></tr>\n";
+  
+   // build the page body.
+  $page[] = "<tr class='appbody'><td>\n";
+  $page[] = implode($contents);
+  $page[] = "</td></tr>\n";
+   
+   // build the page footer.  
+  $page[] = "<tr class='appfooter'><td>\n";
+  $page[] = implode(pageFooter());
+  $page[] = "</td></tr>\n";
+  
+  $page[] = "</body>\n";
+  $page[] = "</html>\n";
+  
+  print(implode($page));
+}
