@@ -1,6 +1,6 @@
 <?php
 
-define("ColorApp", 1); // obsolete
+define("FitnessForecast", 1); // obsolete
 include "views.php"; 
 include "format.php";
 
@@ -30,24 +30,12 @@ if(isset($_POST['submit'])) {
 	}
 	
 	// Go to form page (from "Search Again" button or "Color Pick" button)
-	elseif($submit == 'Color Pick' or $submit == 'Search Again'){
+	elseif($submit == 'Normal form') /// Submission for normal form
+	{
 		if(isset($_SESSION["privilege"])){
 			
 			/// There are only users, no admins
 			
-			$fp = buildFormPage("status for form page: user");
-			
-			/*
-			if ( $_SESSION["privilege"] == "admin"){
-				$fp = buildFormPage("admin");
-			}
-			else{
-				$fp = buildFormPage("status for form page: user");
-			}
-			
-			*/
-		}
-		else{
 			$fp = buildFormPage("status for form page: user");
 		}
 		buildPage($fp);
@@ -58,13 +46,13 @@ if(isset($_POST['submit'])) {
 		$hp = buildHomePage();
 		buildPage($hp);     
 	}
-	
+	/*
 	// Go to review page (from "Reviews" button)
 	elseif($submit == 'Reviews') {
 		$rp = buildReviewPage();
 		buildPage($rp);
 	}
-	
+	*/
 	// Go to login page (from "Login" button)
 	elseif($submit == 'Login') {
 		if (isset($_SESSION["username"])){
@@ -119,7 +107,7 @@ if(isset($_POST['submit'])) {
 		$status = check_if_login_is_correct($username, $password);	
 
 		// check status and build page
-		if ($status[0] == "Email Empty"){
+		if ($status[0] == "Username Empty"){
 			$loginp = buildLoginPageWrong("Please enter an username");
 			buildPage($loginp);
 		}
@@ -150,70 +138,6 @@ if(isset($_POST['submit'])) {
 	}
 	
 	
-	/* /// NO ADMIN ACCOUNTS
-	// admin use update name
-	elseif($submit == 'Update Name'){
-		$unp = buildUpdateNamePage("");
-		buildPage($unp);
-	}
-	
-	// admin use update color availability
-	elseif($submit == 'Update Availability'){
-		$uap = buildUpdateAvailabilityPage("");
-		buildPage($uap);
-	}
-	
-	// admin use add color
-	elseif($submit == 'Add Color'){
-		$acp = buildAddColorPage("");
-		buildPage($acp);
-	}
-	
-	// admin use delete color
-	elseif($submit == 'Delete Color'){
-		$dcp = buildDeleteColorPage("");
-		buildPage($dcp);
-	}
-	
-	// confirmation update color name
-	elseif($submit == 'Update Color Name'){
-		$hex = '#'. $_POST['hex'];
-		$name = $_POST['name'];
-		$status = update_color_name($hex, $name);
-		$unp = buildUpdateNamePage($status[0]);
-		buildPage($unp);
-	}
-	
-	// confirmation update color availability
-	elseif($submit == 'Update Color Availability'){
-		$hex = '#'. $_POST['hex'];
-		$free = $_POST['free'];
-		$status = update_color_availability($hex, $free);
-		$uap = buildUpdateAvailabilityPage($status[0]);
-		buildPage($uap);
-	}
-	
-	// confirmation delete color
-	elseif($submit == 'Delete'){
-		$hex = '#'. $_POST['hex'];
-		$status = delete_color($hex);
-		$dcp = buildDeleteColorPage($status[0]);
-		buildPage($dcp);
-	}
-	
-	// confirmation add color
-	elseif($submit == 'Add'){
-		$hex = '#'. $_POST['hex'];
-		$name = $_POST['name'];
-		$basic = $_POST['colorSimple'];
-		$free = $_POST['free'];
-		$red = $_POST['red'];
-		$green = $_POST['green'];
-		$blue = $_POST['blue'];
-		$status = add_color($hex, $name, $basic, $free, $red, $green, $blue);
-		$acp = buildAddColorPage($status[0]);
-		buildPage($acp);
-	}
 	*/
 	// Either next, prev, or top was clicked in filtered page
 	else{
@@ -223,6 +147,12 @@ if(isset($_POST['submit'])) {
 
 // Default go to home page (puts you in welcome page)
 // no value for submit button because no submit button has been pressed yet
+elseif(isset($_POST['privilege']))
+{
+	$hpR = buildHomePageWithRoutine();
+	buildPage($hpR);
+}
+
 else{
 	$hp = buildHomePage();
 	buildPage($hp);
@@ -232,6 +162,71 @@ else{
 // It then sends it to the view
 function get_data(){
 	
+	
+	
+	
+	
+	/// For disabling specific exercises, send to page that generates routine, which will then ask for routine data from model
+	if(isset($_POST['chest']))
+	{
+		$chestExclusion = $_POST['chest'];	
+	}
+	else
+	{
+		$chestExclusion = false;	
+	}
+	if(isset($_POST['back']))
+	{
+		$backExclusion = $_POST['back'];	
+	}
+	else
+	{
+		$backExclusion = false;	
+	}
+	if(isset($_POST['shoulder']))
+	{
+		$shoulderExclusion = $_POST['shoulder'];	
+	}
+	else
+	{
+		$shoulderExclusion = false;	
+	}
+	if(isset($_POST['legs']))
+	{
+		$legsExclusion = $_POST['legs'];	
+	}
+	else
+	{
+		$legsExclusion = false;	
+	}
+	if(isset($_POST['triceps']))
+	{
+		$tricepsExclusion = $_POST['triceps'];	
+	}
+	else
+	{
+		$tricepsExclusion = false;	
+	}
+	if(isset($_POST['biceps']))
+	{
+		$bicepsExclusion = $_POST['biceps'];	
+	}
+	else
+	{
+		$bicepsExclusion = false;	
+	}
+	if(isset($_POST['abs']))
+	{
+		$absExclusion = $_POST['abs'];	
+	}
+	else
+	{
+		$absExclusion = false;	
+	}
+	
+	/// Add other form information, height, weight, age, etc...
+	
+	/*
 	// Get simple color value
 	// 0 = All
 	// 1 = Red
@@ -309,8 +304,8 @@ function get_data(){
 	else{
 		$index = '0';
 	}
-	
-	// Send to the view!
+	*/
+	// Send to the view! /// Call whatever the new page is
 	$tp = constructFilteredPage($colorSimple, $showColorName, $showColorHex, $showColorRGB, $sortBy, $index, $resultsPerPage, $GLOBALS['loginStatus']);
 	buildPage($tp);
 
