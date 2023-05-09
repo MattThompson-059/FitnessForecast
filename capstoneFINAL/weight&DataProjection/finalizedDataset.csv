@@ -1,0 +1,97 @@
+Exercise,BodyPart,Experience,Projectible,RepTime,Day,SetTime(avg.),Reps,Sets,MaxWeightSet,CurrentPR,CurrPRDate,GoalPR,ProjPR,Gender,Weight(lbs),Height(in),Age,Salt,Username,Password
+Banded Bench Press,Chest,Expert,Yes,2.047,1,16.376,8,3,105,125,3/12/2023,140,131.25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Cable Crossover Fly,Chest,Moderate,No,3.473,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Cable Fly,Chest,Beginner,No,3.23,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Decline Bench Press,Chest,Moderate,No,2.99,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Chest Fly,Chest,Beginner,No,2.683,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Flat Barbell Bench Press,Chest,Beginner,Yes,2.21,1,17.68,8,3,185,200,3/12/2023,300,231.25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Flat Dumbbell Bench Press,Chest,Beginner,Yes,1.76,1,14.08,8,3,55,65,3/12/2023,70,68.75,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Footless Flat Bench Press,Chest,Expert,Yes,2.347,1,18.776,8,3,135,165,3/12/2023,175,168.75,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Incline Barbell Bench Press,Chest,Moderate,Yes,2.447,1,19.576,8,3,155,180,3/12/2023,190,193.75,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Incline Dumbbell Bench Press,Chest,Beginner,Yes,1.95,1,15.6,8,3,50,60,3/12/2023,65,62.5,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Machine Chest Press,Chest,Beginner ,Yes,1.813,1,14.504,8,3,155,180,3/12/2023,200,193.75,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Machine Fly,Chest,Beginner ,No,2.977,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Push-Up Claps,Chest,Expert,No,1.233,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Push-Ups,Chest,Beginner,No,1.123,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Single Arm Dumbbell Bench Press,Chest,Moderate,No,1.943,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Standing One-Arm Landmine Press ,Chest,Moderate,No,2.253,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Assisted Machine Pull-Ups,Back,Beginner,No,1.2,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Barbell Bent-Over Row,Back,Moderate,No,0.883,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Barbell Deadlift,Back,Beginner,Yes,1.383,2,11.064,8,3,170,185,3/14/2023,250,193.75,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Barbell Romainian Deadlift,Back,Beginner,Yes,1.317,2,10.536,8,3,160,175,3/14/2023,190,212.5,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Single Arm Row,Back,Moderate,No,0.933,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Deadlift,Back,Beginner,No,1.233,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Farmer's Walk,Back,Beginner,No,8.4,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Lat Pulldowns,Back,Beginner,No,1.217,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Pull-Ups,Back,Beginner,No,1.067,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Renegade Row,Back,Expert,No,3.15,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Seated Cable Row,Back,Beginner,Yes,1.117,2,8.936,8,3,85,100,3/14/2023,110,106.25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+T-Bar Row,Back,Beginner,Yes,1.183,2,9.464,8,3,90,105,3/14/2023,115,112.5,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Weighted Pull-Ups,Back,Moderate,No,1.083,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Barbell Lateral Raise,Shoulder,Beginner,No,1.356,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Barbell Shrugs,Shoulder,Moderate,Yes,0.767,3,6.136,8,3,45,55,3/16/2023,70,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Bent-over Reverse Fly ,Shoulder,Expert,No,1.006,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Lateral Raise,Shoulder,Beginner,No,0.85,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Shrugs,Shoulder,Moderate,No,0.894,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Kettleball One-Arm Press,Shoulder,Beginner,No,1.006,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Kettleball Raises,Shoulder,Moderate,No,1.172,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Seated Arnold Presses,Shoulder,Moderate,No,0.961,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Seated Barbell Shoulder Press,Shoulder,Beginner,No,0.978,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Seated Dumbbell Shoulder Press,Shoulder,Beginner,Yes,0.896,3,7.168,8,3,25,40,3/16/2023,50,31.25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Seated One-Arm Dumbbell Shoulder Press,Shoulder,Moderate,No,1.746,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Standing Arnold Presses,Shoulder,Moderate,No,1.054,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Standing Barbell Shoulder Press,Shoulder,Beginner,No,0.989,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Standing Dumbbell Shoulder Press,Shoulder,Beginner,Yes,0.949,3,7.592,8,3,15,25,3/16/2023,30,18.75,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Standing One-Arm Dumbbell Shoulder Press,Shoulder,Moderate,No,1.811,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Back Squat,Legs,Beginner,Yes,2.222,4,17.776,8,3,185,200,3/18/2023,225,231.25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Barbell Hip Thrusts,Legs,Moderate,No,1.095,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Bulgarian Split Squat,Legs,Moderate,No,2.393,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Bulgarian Split Squat,Legs,Expert,No,2.511,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Front Squat,Legs,Beginner,Yes,1.756,4,14.048,8,3,135,155,3/18/2023,175,168.75,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Goblet Squat,Legs,Beginner,Yes,1.439,4,11.512,8,3,55,80,3/18/2023,70,68.75,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Hack Squat,Legs,Beginner,No,1.803,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Leg Curl,Legs,Moderate,No,2.052,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Lying Leg Curl,Legs,Moderate,No,0.891,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Machine Hip Thrusts,Legs,Moderate,No,0.979,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Machine Leg Extensions,Legs,Beginner,No,1.151,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Machine Leg Press,Legs,Beginner,Yes,1.326,4,10.608,8,3,250,280,3/18/2023,300,312.5,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Reverse Lunges,Legs,Beginner,No,2.258,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Seated Calf Raise,Legs,Beginner,Yes,1.304,4,10.432,8,3,165,185,3/18/2023,220,206.25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Seated Leg Curl,Legs,Beginner,No,1.227,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Single Leg Deadlift,Legs,Moderate,No,1.114,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Standing Calf Raise,Legs,Moderate,Yes,1.521,4,12.168,8,3,145,170,3/18/2023,200,181.25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Step-Ups,Legs,Beginner,No,3.54,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Walking Lunges,Legs,Beginner,No,2.489,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Weighted Reverse Lunges,Legs,Beginner,No,1.382,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Weighted Walking Lunges,Legs,Beginner,No,1.587,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Barbell Skullcrushers,Triceps,Beginner,No,1.367,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Skullcrushers,Triceps,Moderate,No,1.413,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Close-Grip Bench Press,Triceps,Moderate,Yes,1.158,2,9.264,8,3,145,155,3/14/2023,200,181.25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Triceps Dip,Triceps,Beginner ,No,1.613,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Weighted Triceps Dip,Triceps,Moderate,No,1.577,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Triceps Machine Dip,Triceps,Beginner,No,1.176,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Seated Dumbbell Overhead Triceps Extension,Triceps,Beginner,No,1.319,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Standing Dumbbell Overhead Triceps Extension,Triceps,Moderate,No,1.355,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Cable Push-Downs,Triceps,Beginner,No,1.091,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Isolated Triceps Extension,Triceps,Beginner,No,1.187,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Dumbbell Floor Press,Triceps,Beginner,No,0.654,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Standing Dumbbell Curl,Biceps,Beginner,Yes,0.943,3,7.544,8,3,25,30,3/16/2023,40,31.25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Hammer Curl,Biceps,Beginner,Yes,1.172,3,9.376,8,3,15,25,3/16/2023,35,18.75,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Incline Dumbbell Curl,Biceps,Moderate,No,1.095,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+EZ Bar Curl,Biceps,Beginner ,No,1.074,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Concentration Dumbbell Curl,Biceps,Beginner,No,7.137,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Twisting Dumbbell Curl,Biceps,Moderate,No,1.421,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Barbell Curl,Biceps,Beginner,Yes,1.206,3,9.648,8,3,20,25,3/16/2023,40,25,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Cable Rope Hammer Curl,Biceps,Beginner,No,1.047,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Mountain Climbers,Abs,Moderate,No,0.843,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Planks,Abs,Beginner,No,0,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Russian Twists,Abs,Expert,No,0.789,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Side Plank,Abs,Beginner,No,0,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Superman,Abs,Moderate,No,1.514,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Ab Crunches,Abs,Beginner,No,0.96,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Heel Taps,Abs,Beginner,No,0.928,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Machine Ab Crunches,Abs,Beginner,No,1.176,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Machine Torso Track,Abs,Moderate,No,1.186,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Seated Rotation,Abs,Beginner,No,0.871,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Plate Seated Rotation,Abs,Moderate,No,1.062,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3
+Captain's Chair,Abs,Beginner,No,1.144,0,0,0,0,0,0,0,0,0,Male,197.9,69.1,20,rF1U7CZxt0muV8Jshs7HvwjEPlwA0Nid ,seaMarshallCaptain22,R@nd0lp#M@c0Ncp$t0n3

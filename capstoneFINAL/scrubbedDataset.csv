@@ -1,0 +1,97 @@
+Exercise,BodyPart,Experience,Projectible,RepTime,Day,SetTime(avg.),Reps,Sets,MaxWeightSet,CurrentPR,CurrPRDate,GoalPR,ProjPR,Gender,Weight(lbs),Height(in),Age
+Banded Bench Press,Chest,Expert,Yes,2.047,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Cable Crossover Fly,Chest,Moderate,No,3.473,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Cable Fly,Chest,Beginner,No,3.23,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Decline Bench Press,Chest,Moderate,No,2.99,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Chest Fly,Chest,Beginner,No,2.683,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Flat Barbell Bench Press,Chest,Beginner,Yes,2.21,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Flat Dumbbell Bench Press,Chest,Beginner,Yes,1.76,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Footless Flat Bench Press,Chest,Expert,Yes,2.347,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Incline Barbell Bench Press,Chest,Moderate,Yes,2.447,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Incline Dumbbell Bench Press,Chest,Beginner,Yes,1.95,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Machine Chest Press,Chest,Beginner ,Yes,1.813,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Machine Fly,Chest,Beginner ,No,2.977,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Push-Up Claps,Chest,Expert,No,1.233,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Push-Ups,Chest,Beginner,No,1.123,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Single Arm Dumbbell Bench Press,Chest,Moderate,No,1.943,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Standing One-Arm Landmine Press ,Chest,Moderate,No,2.253,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Assisted Machine Pull-Ups,Back,Beginner,No,1.2,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Barbell Bent-Over Row,Back,Moderate,No,0.883,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Barbell Deadlift,Back,Beginner,Yes,1.383,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Barbell Romainian Deadlift,Back,Beginner,Yes,1.317,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Single Arm Row,Back,Moderate,No,0.933,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Deadlift,Back,Beginner,No,1.233,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Farmer's Walk,Back,Beginner,No,8.4,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Lat Pulldowns,Back,Beginner,No,1.217,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Pull-Ups,Back,Beginner,No,1.067,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Renegade Row,Back,Expert,No,3.15,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Seated Cable Row,Back,Beginner,Yes,1.117,0,0,0,0,0,0,0,0,0,Other,150,50,18
+T-Bar Row,Back,Beginner,Yes,1.183,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Weighted Pull-Ups,Back,Moderate,No,1.083,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Barbell Lateral Raise,Shoulder,Beginner,No,1.356,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Barbell Shrugs,Shoulder,Moderate,Yes,0.767,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Bent-over Reverse Fly ,Shoulder,Expert,No,1.006,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Lateral Raise,Shoulder,Beginner,No,0.85,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Shrugs,Shoulder,Moderate,No,0.894,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Kettleball One-Arm Press,Shoulder,Beginner,No,1.006,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Kettleball Raises,Shoulder,Moderate,No,1.172,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Seated Arnold Presses,Shoulder,Moderate,No,0.961,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Seated Barbell Shoulder Press,Shoulder,Beginner,No,0.978,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Seated Dumbbell Shoulder Press,Shoulder,Beginner,Yes,0.896,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Seated One-Arm Dumbbell Shoulder Press,Shoulder,Moderate,No,1.746,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Standing Arnold Presses,Shoulder,Moderate,No,1.054,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Standing Barbell Shoulder Press,Shoulder,Beginner,No,0.989,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Standing Dumbbell Shoulder Press,Shoulder,Beginner,Yes,0.949,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Standing One-Arm Dumbbell Shoulder Press,Shoulder,Moderate,No,1.811,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Back Squat,Legs,Beginner,Yes,2.222,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Barbell Hip Thrusts,Legs,Moderate,No,1.095,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Bulgarian Split Squat,Legs,Moderate,No,2.393,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Bulgarian Split Squat,Legs,Expert,No,2.511,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Front Squat,Legs,Beginner,Yes,1.756,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Goblet Squat,Legs,Beginner,Yes,1.439,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Hack Squat,Legs,Beginner,No,1.803,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Leg Curl,Legs,Moderate,No,2.052,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Lying Leg Curl,Legs,Moderate,No,0.891,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Machine Hip Thrusts,Legs,Moderate,No,0.979,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Machine Leg Extensions,Legs,Beginner,No,1.151,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Machine Leg Press,Legs,Beginner,Yes,1.326,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Reverse Lunges,Legs,Beginner,No,2.258,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Seated Calf Raise,Legs,Beginner,Yes,1.304,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Seated Leg Curl,Legs,Beginner,No,1.227,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Single Leg Deadlift,Legs,Moderate,No,1.114,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Standing Calf Raise,Legs,Moderate,Yes,1.521,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Step-Ups,Legs,Beginner,No,3.54,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Walking Lunges,Legs,Beginner,No,2.489,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Weighted Reverse Lunges,Legs,Beginner,No,1.382,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Weighted Walking Lunges,Legs,Beginner,No,1.587,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Barbell Skullcrushers,Triceps,Beginner,No,1.367,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Skullcrushers,Triceps,Moderate,No,1.413,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Close-Grip Bench Press,Triceps,Moderate,Yes,1.158,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Triceps Dip,Triceps,Beginner ,No,1.613,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Weighted Triceps Dip,Triceps,Moderate,No,1.577,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Triceps Machine Dip,Triceps,Beginner,No,1.176,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Seated Dumbbell Overhead Triceps Extension,Triceps,Beginner,No,1.319,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Standing Dumbbell Overhead Triceps Extension,Triceps,Moderate,No,1.355,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Cable Push-Downs,Triceps,Beginner,No,1.091,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Isolated Triceps Extension,Triceps,Beginner,No,1.187,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Dumbbell Floor Press,Triceps,Beginner,No,0.654,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Standing Dumbbell Curl,Biceps,Beginner,Yes,0.943,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Hammer Curl,Biceps,Beginner,Yes,1.172,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Incline Dumbbell Curl,Biceps,Moderate,No,1.095,0,0,0,0,0,0,0,0,0,Other,150,50,18
+EZ Bar Curl,Biceps,Beginner ,No,1.074,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Concentration Dumbbell Curl,Biceps,Beginner,No,7.137,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Twisting Dumbbell Curl,Biceps,Moderate,No,1.421,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Barbell Curl,Biceps,Beginner,Yes,1.206,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Cable Rope Hammer Curl,Biceps,Beginner,No,1.047,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Mountain Climbers,Abs,Moderate,No,0.843,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Planks,Abs,Beginner,No,0,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Russian Twists,Abs,Expert,No,0.789,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Side Plank,Abs,Beginner,No,0,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Superman,Abs,Moderate,No,1.514,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Ab Crunches,Abs,Beginner,No,0.96,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Heel Taps,Abs,Beginner,No,0.928,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Machine Ab Crunches,Abs,Beginner,No,1.176,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Machine Torso Track,Abs,Moderate,No,1.186,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Seated Rotation,Abs,Beginner,No,0.871,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Plate Seated Rotation,Abs,Moderate,No,1.062,0,0,0,0,0,0,0,0,0,Other,150,50,18
+Captain's Chair,Abs,Beginner,No,1.144,0,0,0,0,0,0,0,0,0,Other,150,50,18
